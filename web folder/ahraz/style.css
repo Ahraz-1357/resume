@@ -1,0 +1,40 @@
+#div0 {
+    border-style: double;
+    margin: 0%;
+}
+
+#div1 {
+    width: 350px;
+    height: 350px;
+    background-image: url(ahraz23.jpg);
+    border-radius: 50%;
+    margin-top: 16px;
+    border-style: double;
+}
+
+#sd {
+    text-align: center;
+    background-color: aliceblue;
+    border-style: double;
+}
+
+h3 {
+    text-align: center;
+    border-style: double;
+}
+
+#DIV2 {
+    margin-left: 50px;
+    
+}
+
+#div3 {
+    margin-left: 50PX;
+    
+}
+#sl{
+
+    font-family: 'Lucida Sans';
+    font-size: xx-large;
+    font-weight: 800;
+}
